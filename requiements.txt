@@ -1,4 +1,4 @@
-Since these are basic console-based Python scripts,**no third-party libraries** are required. But to follow standard practice:
+Since these are basic console-based Python scripts,no third-party libraries are required. But to follow standard practice:
 
 # No external libraries required
 # Ensure you're using Python 3.6+
